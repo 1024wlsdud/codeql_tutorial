@@ -27,7 +27,7 @@ A grading script exists under `.github/workflows/grading.yml`. You do not need t
 
 > This exercise needs to be completed in an organization. We recommend you [create a new organization](https://github.com/account/organizations/new?coupon=&plan=team_free) for free. If you choose to use an existing organization, note that this exercise will ask you to adjust settings in the organization that may have unintended effects on existing repositories or organization members.
 </details>
- -->
+ -->.
 
 ## Instructions
 
